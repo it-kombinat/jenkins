@@ -16,12 +16,12 @@
 
 # Install Jenkins Plugins
 
-*Build Monitor View
-*Build Pipeline Plugin
-*Git client plugin
-*Git plugin
-*Status Monitor Plugin
-*Warnings Plugin
+* Build Monitor View
+* Build Pipeline Plugin
+* Git client plugin
+* Git plugin
+* Status Monitor Plugin
+* Warnings Plugin
 
 # Create Jobs in Jenkins
 First create Jobs to test your Modules. For each Test a Job, you can trigger the Next Job.
